@@ -1,0 +1,47 @@
+.title{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 40px;
+    
+}
+
+
+
+.image{
+    text-align: center;
+    padding: 40px ;
+    margin: 40px ;
+    /* border: 5px solid black; */
+
+}
+
+img{
+    height: 270px;
+    width: auto;
+}
+
+.center,ul,ol,li{
+    text-align: center;
+}
+
+ul,ol{
+    list-style-position:inside
+
+}
+.desc{
+    text-align: center;
+ }
+
+
+
+
+
+
+
+
+
+
+ *{
+    background-color: rgb(178 126 11)
+} 
